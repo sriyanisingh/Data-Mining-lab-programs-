@@ -1,0 +1,50 @@
+Aim: To study and illustrate the Knowledge Discovery in Databases (KDD) process and to explore the data
+mining tool WEKA for performing data preprocessing, classification, and clustering.
+Description:
+This experiment focuses on understanding the Knowledge Discovery in Databases (KDD) process, which is used
+to extract meaningful knowledge from large datasets. The KDD process includes stages such as data selection,
+preprocessing, transformation, data mining, pattern evaluation, and knowledge presentation.
+In this experiment, the WEKA data mining tool is used to practically implement key data mining tasks. WEKA
+provides various algorithms and filters that help in data preprocessing, classification, and clustering of datasets.
+By using WEKA, users can easily analyze data, apply machine learning techniques, and interpret the results
+effectively.
+Knowledge Discovery in Databases (KDD) Process
+Introduction
+Knowledge Discovery in Databases (KDD) is the systematic process of extracting meaningful
+knowledge and patterns from large volumes of data. It involves multiple steps, of which Data
+Mining is the central stage.
+Stages of the KDD Process :
+1. Data Selection
+ Selection of relevant data from databases, data warehouses, or multiple data sources.
+ Irrelevant and redundant data are excluded.
+2. Data Preprocessing (Data Cleaning)
+ Improves data quality by removing errors and inconsistencies.
+Activities include:
+ Handling missing values
+ Removing duplicate records
+ Noise reduction
+ Outlier detection
+3. Data Transformation
+ Converts data into a suitable format for mining.
+Techniques:
+ Normalization
+ Discretization
+ Aggregation
+ Feature selection
+4. Data Mining
+ Application of algorithms to extract patterns from data.
+Common tasks:
+ Classification
+ Clustering
+ Association rule mining
+ Regression
+5. Pattern Evaluation
+ Identifies useful and interesting patterns.
+ Filters out irrelevant or redundant information.
+6. Knowledge Presentation
+ Presents discovered knowledge using graphs, reports, and visualizations for easy
+understanding.
+Conclusion:
+Thus, the Knowledge Discovery in Databases (KDD) process provides a systematic and stepby-step approach to extract useful, valid, and meaningful knowledge from large datasets. Each
+stage of KDD plays an important role in improving data quality and ensuring accurate and
+reliable results.
